@@ -3,12 +3,15 @@
     <channel>
         <title>Coder</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Wed, 17 Apr 2024 22:48:51 +0200</pubDate>
+            <title>1.0 Release</title>
+            <pubDate>Wed, 17 Apr 2024 23:43:54 +0200</pubDate>
             <sparkle:version>1.0</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0 Release</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://miakoring.github.io/coder.github.io/Coder.zip" length="1972016" type="application/octet-stream" sparkle:edSignature="XcLl9MyYXLPccgvvb4sgQQdqDBNG5CVwKEM4iU766j9wKLiZTOXjDYxa5WtIFHqG0LGURiJgKolpDYGfw8VxBg=="/>
+            <enclosure url="https://miakoring.github.io/coder.github.io/Coder.zip" length="1972167" type="application/octet-stream" sparkle:edSignature="+o6wS8gFE0BMUjv0hvS/F6QRYhKcRwwfboHg4tlKiWVjAhMrW65ZWea7KpZTmOdTzzXRd0BVn5gO9IStkjegDg=="/>
+            <sparkle:releaseNotesLink>
+                https://miakoring.github.io/coder.github.io/v1_0.html
+            </sparkle:releaseNotesLink>
         </item>
     </channel>
 </rss>
