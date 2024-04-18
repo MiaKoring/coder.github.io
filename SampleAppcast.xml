@@ -3,6 +3,17 @@
     <channel>
         <title>Coder</title>
         <item>
+            <title>1.1 (Internal improvements, added setting for language)</title>
+            <pubDate>Thu, 18 Apr 2024 20:25:12 +0200</pubDate>
+            <sparkle:version>1.1</sparkle:version>
+            <sparkle:shortVersionString>1.1 (Internal improvements, added setting for language)</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://miakoring.github.io/coder.github.io/Coder.zip" length="1990594" type="application/octet-stream" sparkle:edSignature="dcSUxqZcrDnx5oUlXJJrz51uZh/pX3qO+ieRAOIi4J+dJyMsVMjVBYcvdDX6v5savx1NvsZEkeJy/oqQWyMZDw=="/>
+            <sparkle:releaseNotesLink>
+                https://miakoring.github.io/coder.github.io/v1_0.html
+            </sparkle:releaseNotesLink>
+        </item>
+        <item>
             <title>1.0 Release</title>
             <pubDate>Wed, 17 Apr 2024 23:43:54 +0200</pubDate>
             <sparkle:version>1.0</sparkle:version>
